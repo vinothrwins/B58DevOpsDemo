@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 // import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.Test;
-
+// Code added by Sandeep 
 public class RegisterDemoFlow {
 
 	public WebDriver driver;
